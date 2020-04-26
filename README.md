@@ -16,4 +16,7 @@ Libraries needed to run the code are:
   numpy
   pandas
   seaborn
+  
+Take a look at the Medium article:
+https://medium.com/@xDCT/what-to-learn-next-976469e6e5c1
 
